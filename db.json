@@ -1,0 +1,48 @@
+{
+  "meetups": [
+    {
+      "id": 1,
+      "title": "Angular",
+      "image": "typicode",
+      "address": "Lagos",
+      "description": "Old ojo road"
+    },
+    {
+      "id": 2,
+      "title": "React",
+      "image": "typicode",
+      "address": "Ibadan",
+      "description": "Old ojo road"
+    },
+    {
+      "id": 3,
+      "title": "Vue",
+      "image": "typicode",
+      "address": "Abeokuta",
+      "description": "Old ojo road"
+    }
+  ],
+  "meetup": [
+    {
+      "id": "m1",
+      "title": "This is a first meetup",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/2560px-Stadtbild_M%C3%BCnchen.jpg",
+      "address": "Meetupstreet 5, 12345 Meetup City",
+      "description": "This is a first, amazing meetup which you definitely should not miss. It will be a lot of fun!"
+    },
+    {
+      "id": "m2",
+      "title": "This is a second meetup",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/2560px-Stadtbild_M%C3%BCnchen.jpg",
+      "address": "Meetupstreet 5, 12345 Meetup City",
+      "description": "This is a first, amazing meetup which you definitely should not miss. It will be a lot of fun!"
+    },
+    {
+      "title": "Dele Title",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/2560px-Stadtbild_M%C3%BCnchen.jpg",
+      "address": "No 3B, Malvern, Cadogan Estate, Jakande. Lagos",
+      "description": "None",
+      "id": "Jzrvn6Q"
+    }
+  ]
+}
